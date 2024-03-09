@@ -12,7 +12,7 @@ public class Sistema {
         Raphael.nomecandidato = "Raphael";
         Goettzinger.nomecandidato = "Goettzinger";
         Neto.nomecandidato = "Neto";
-        Javilson.nomecandidato = "Javilson";
+        Javilson.nomecandidato = "Javilson ";
 
         while (true) {
             System.out.println("Bem vindo ao sistema de eleição em Java ! \nVote através do número do seu candidato: \n 1. Raphael \n 2. Goettzinger \n 3. Neto \n 4. Javilson");
